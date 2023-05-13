@@ -1,7 +1,12 @@
+# CCSF
 
 ccsf : call center software framework Call Center Software Suite for everyone
 
-Copyright (C) 2020,2021  Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+# License
+
+ccsf : call center software framework Call Center Software Suite for everyone
+
+Copyright (C) 2020-2023  Masscollabs Services
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
@@ -19,5 +24,6 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 # ccsf
 
-Call Center Software Suite
+Call Center Software Suite for audio, video and text communication, and remote control for supporting customers.
+
 
