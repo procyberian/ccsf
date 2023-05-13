@@ -26,4 +26,8 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 Call Center Software Suite for audio, video and text communication, and remote control for supporting customers.
 
+# Our Technologies
+
+* Go for backend and server side
+* Python for web interface and web applications
 
