@@ -2,6 +2,15 @@
 
 ccsf : call center software framework Call Center Software Suite for everyone
 
+# ccsf
+
+Call Center Software Suite for audio, video and text communication, and remote control for supporting customers.
+
+# Our Technologies
+
+* Go for backend and server side(Erlang will replace Go)
+* Python for web interface and web applications
+
 # License
 
 ccsf : call center software framework Call Center Software Suite for everyone
@@ -22,12 +31,6 @@ You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 
-# ccsf
 
-Call Center Software Suite for audio, video and text communication, and remote control for supporting customers.
 
-# Our Technologies
-
-* Go for backend and server side
-* Python for web interface and web applications
 

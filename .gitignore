@@ -1,32 +1,26 @@
-# Prerequisites
-*.d
+# Created by https://www.toptal.com/developers/gitignore/api/erlang
+# Edit at https://www.toptal.com/developers/gitignore?templates=erlang
 
-# Compiled Object files
-*.slo
-*.lo
+### Erlang ###
+.eunit
 *.o
-*.obj
+*.beam
+*.plt
+erl_crash.dump
+.concrete/DEV_MODE
 
-# Precompiled Headers
-*.gch
-*.pch
+# rebar 2.x
+.rebar
+rel/example_project
+ebin/*.beam
+deps
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# rebar 3
+.rebar3
+_build/
+_checkouts/
 
-# Fortran module files
-*.mod
-*.smod
+### Erlang Patch ###
+rebar3.crashdump
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# End of https://www.toptal.com/developers/gitignore/api/erlang
